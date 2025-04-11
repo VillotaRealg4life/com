@@ -1,0 +1,17 @@
+{
+    "persona": {
+      "nombre": "Juan Pérez",
+      "edad": 30,
+      "correo": "juan.perez@example.com",
+      "direccion": {
+        "calle": "Calle Falsa 123",
+        "ciudad": "Pasto",
+        "pais": "Colombia"
+      },
+      "telefonos": [
+        { "tipo": "casa", "numero": "1234567" },
+        { "tipo": "móvil", "numero": "3001234567" }
+      ]
+    }
+  }
+  

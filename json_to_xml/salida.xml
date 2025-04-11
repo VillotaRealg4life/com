@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><persona><nombre>Juan Pérez</nombre><edad>30</edad><correo>juan.perez@example.com</correo><direccion><calle>Calle Falsa 123</calle><ciudad>Pasto</ciudad><pais>Colombia</pais></direccion><telefonos><tipo>casa</tipo><numero>1234567</numero></telefonos><telefonos><tipo>móvil</tipo><numero>3001234567</numero></telefonos></persona></root>
